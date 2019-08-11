@@ -1,12 +1,16 @@
 package catalog.graphs.similars;
 
 /**
- * Given: A double linked list, with one pointer of each node pointing to the next node (like in a
- * single linked list). The second pointer can point to any node in the list and not just the
+ * Clone doubly linked list with next & random pointers.
+ *
+ * <p>Given: A double linked list, with one pointer of each node pointing to the next node (like in
+ * a single linked list). The second pointer can point to any node in the list and not just the
  * previous node. We will call such a linked list as a linked list with a next and arbitrary (or
  * random) pointers. Assume every node holds a unique integer data.
  *
  * <p>Problem: Duplicate / clone / deep copy this list.
+ *
+ * <p>Time Complexity: O(n), Additional/Auxiliary Space Complexity: O(1)
  */
 public class CloneLinkedList {
 
