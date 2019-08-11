@@ -1,2 +1,6 @@
 .idea
 .envrc
+__pycache__
+out
+scratch
+catalog.iml
