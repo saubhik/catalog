@@ -1,4 +1,4 @@
-package catalog.graphs.similars;
+package catalog.graphs.clonegraph.similars;
 
 import static org.junit.jupiter.api.Assertions.*;
 

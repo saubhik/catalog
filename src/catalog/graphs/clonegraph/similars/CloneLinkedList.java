@@ -1,4 +1,4 @@
-package catalog.graphs.similars;
+package catalog.graphs.clonegraph.similars;
 
 /**
  * Clone doubly linked list with next & random pointers.
